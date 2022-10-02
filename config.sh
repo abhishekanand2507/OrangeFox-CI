@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_9.0"
-export DT_LINK="https://github.com/pjgowtham/android_device_oplus_RMX3360.git -b lineage-19.1"
+export DT_LINK="https://github.com/pjgowtham/recovery_device_generic_marmalade.git -b android-12.1"
 
 export DEVICE="RMX3360"
 export OEM="realme"
